@@ -1,0 +1,57 @@
+
+.top{
+    display: inline;
+    font-size: 40px;
+}
+.top2{
+    float: right;
+    word-spacing: 40px;
+    color: blue;
+    margin: 15px;
+    
+}
+.p1{
+    display: inline;
+    text-decoration: underline;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 45px;
+
+
+}
+.main{
+    height: 242px;
+    width: 31%;
+    border: 3px solid red;
+    margin: 10px;
+    background-color: aqua;
+}
+.box1{
+    padding: 0px;
+
+}
+.box2{
+   
+
+}
+.box3{
+    padding: 5px;
+
+}
+.box4{
+    padding: 0px;
+}
+.box5{
+
+}
+.box6{
+
+}
+.form{
+    padding: 50px;
+    padding-top: 21px;
+}
